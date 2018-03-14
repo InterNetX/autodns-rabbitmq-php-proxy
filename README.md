@@ -1,0 +1,1 @@
+# autodns-rabbitmq-php-proxy
