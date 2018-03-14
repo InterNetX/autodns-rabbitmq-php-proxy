@@ -6,10 +6,11 @@ You need to copy config.ini.example to config.ini and edit it.
 
 ## config.ini
 
- [rabbitmq]
- host=localhost
- port=5672
- user=user
- pass=password
- vhost=/
- queue=autodns_response
+    [rabbitmq]
+    host=localhost
+    port=5672
+    user=user
+    pass=password
+    vhost=/
+    queue=autodns_response
+
